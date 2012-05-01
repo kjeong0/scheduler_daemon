@@ -7,8 +7,8 @@ PATH
       chronic (>= 0.2.0)
       daemons (>= 1.0.10)
       daemons (>= 1.0.10)
-      eventmachine (>= 0.12.8)
-      eventmachine (>= 0.12.8)
+      eventmachine (0.12.8)
+      eventmachine (0.12.8)
       rufus-scheduler (>= 2.0.1)
       rufus-scheduler (>= 2.0.1)
 
@@ -31,6 +31,6 @@ DEPENDENCIES
   activesupport
   chronic (>= 0.2.0)
   daemons (>= 1.0.10)
-  eventmachine (>= 0.12.8)
+  eventmachine (0.12.8)
   rufus-scheduler (>= 2.0.1)
   scheduler_daemon!
