@@ -7,8 +7,8 @@ PATH
       chronic (>= 0.2.0)
       daemons (>= 1.0.10)
       daemons (>= 1.0.10)
-      eventmachine (>= 1.0.0)
-      eventmachine (>= 1.0.0)
+      eventmachine (1.0.0.beta.4.1)
+      eventmachine (1.0.0.beta.4.1)
       rufus-scheduler (>= 2.0.1)
       rufus-scheduler (>= 2.0.1)
 
@@ -18,7 +18,7 @@ GEM
     activesupport (3.0.6)
     chronic (0.3.0)
     daemons (1.1.2)
-    eventmachine (1.0.0)
+    eventmachine (1.0.0.beta.4.1)
     rufus-scheduler (2.0.8)
       tzinfo (>= 0.3.23)
     tzinfo (0.3.26)
@@ -31,6 +31,6 @@ DEPENDENCIES
   activesupport
   chronic (>= 0.2.0)
   daemons (>= 1.0.10)
-  eventmachine (>= 1.0.0)
+  eventmachine (1.0.0.beta.4.1)
   rufus-scheduler (>= 2.0.1)
   scheduler_daemon!
